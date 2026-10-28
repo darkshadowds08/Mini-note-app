@@ -1,0 +1,6 @@
+{
+  "name": "Mini Note Finance",
+  "description": "تطبيق مصغرة النوتة المالية لتسجيل الحركات المالية وحساب الرصيد والإحصائيات التفاعلية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
